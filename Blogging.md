@@ -9,12 +9,12 @@
         WordPress.com hosted blogs require no extra setup.
         Tumblr blogs require no extra setup.
 
-Adding/Removing a blog account
+###Adding/Removing a blog account
 
     To add a new account, click Menu on the ActionBar, select Settings, and click Add New Accounts. Multiple blog accounts are only supported in the LightPaper Pro version.
     Removing a blog account can be done by going to Settings and clicking the 'x' next to an account
 
-Posting a blog
+###Posting a blog
 
     Create some awesome content.
     Once you are ready to post, click the menu and select the Blog menu item. If the Blog menu item is disabled, it means you haven't added a blog account yet. Please see section Adding/Removing a blog account.
