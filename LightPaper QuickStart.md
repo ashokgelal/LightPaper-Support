@@ -1,4 +1,4 @@
-##LightPaper QuickStart
+##QuickStart
 
 ###Browsing Files
 In the file chooser, long click on files to send them to the Files, Favorites or Trash folders.  Slide down to refresh documents.
