@@ -16,8 +16,8 @@
 ## Dropbox Integration
 The documents are saved locally by default, with the option to sync with and upload your documents to the cloud through Dropbox. To link to Dropbox, click Menu on the ActionBar, select `Settings`, and click `Add New Accounts`.
 
-## Markdown Support
-*LightPaper* comes with built-in support for Markdown syntax. If you don't know Markdown and don't want to, it's okay - you can write everything in plain text. But we highly recommend you spare a few minutes to learn more about Markdown following this link: <http://links.clockworkengine.com/mkdn>.
+## Full Markdown/MultiMarkdown Support
+*LightPaper* comes with built-in support for Markdown and MultiMarkdown syntax. If you don't know Markdown and don't want to, it's okay - you can write everything in plain text. But we highly recommend you spare a few minutes to learn more about Markdown following this link: <http://links.clockworkengine.com/mkdn>.  MultiMarkdown documentation can be found at this link: <http://links.clockworkengine.com/mmd>.
 
 From the author of Markdown:
 
