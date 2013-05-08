@@ -1,6 +1,5 @@
+### Official Support for [LightPaper](https://play.google.com/store/apps/details?id=com.clockworkengine.android.LightPaper)
 
-Official Support for [LightPaper](https://play.google.com/store/apps/details?id=com.clockworkengine.android.LightPaper)
-==================
 
 * [About LightPaper](https://github.com/ClockworkEngine/LightPaper-Support/blob/master/About%20LightPaper.md)
 * [LightPaper Quick Start](https://github.com/ClockworkEngine/LightPaper-Support/blob/master/QuickStart.md)
