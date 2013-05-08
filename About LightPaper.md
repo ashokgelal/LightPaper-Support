@@ -124,6 +124,9 @@ Settings are located in the Options menu, and can be used to choose the default 
 ## Feedback and Comments
 We'd love to hear from you. The best way to contact us is either by using our Google+ page, or by using Twitter. To get the latest updates on *LightPaper* you can like our Google+ page (<http://links.clockworkengine.com/gpluslp>) and follow us on Twitter [@LightPaperApp](http://twitter.com/LightPaperApp). If you find *LightPaper* to be awesome, don't forget to 5 star us on the Google Play Store. We have made our best efforts to give Android users a simple, beautiful, and native looking editor and we promise to continuously improve it.
 
+## Support
+If you need any support regarding this app, you can create a ticket at <http://links.clockworkengine.com/lp-support> or email us at support@clockworkengine.com
+
 We hope you enjoy using it as much as we enjoyed writing it.
 
 **Team LightPaper** <http://getlightpaper.com>
