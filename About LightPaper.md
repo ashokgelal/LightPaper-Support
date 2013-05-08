@@ -4,7 +4,7 @@
 ---
 
 ###★ New in Version 1.4
-* MultiMarkdown support (footnotes, citations and tables)
+* MultiMarkdown support (footnotes, citations, tables, email, definitions)
 * Style selector with custom fonts including Roboto, Source Sans Pro and many others, as well as custom themes including GitHub and Solarized (both light and dark)
 * New *Labs* feature in Settings to try out our latest research and development
 * Long press an Edit Shortcut or Markdown Shortcut for a tool tip
