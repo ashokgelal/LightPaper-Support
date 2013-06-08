@@ -1,4 +1,4 @@
-###★ New in Version 1.5
+###★ New in Version 2.0
 * Folder support for both DropBox and Local File System (Pro Only)
 * Create files and folders from the Document List View
 * Scriptogram Support
