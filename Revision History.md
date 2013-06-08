@@ -1,3 +1,11 @@
+###★ New in Version 1.5
+* Folder support for both DropBox and Local File System (Pro Only)
+* Create files and folders from the Document List View
+* Scriptogram Support
+* Quick Edit visibility toggle
+* User interface update
+* Bug fixes
+
 ###★ New in Version 1.4
 * MultiMarkdown support (footnotes, citations, tables, email, definitions)
 * Style selector with custom fonts including Roboto, Source Sans Pro and many others, as well as custom themes including GitHub and Solarized (both light and dark)
