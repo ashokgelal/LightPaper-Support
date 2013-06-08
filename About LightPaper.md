@@ -1,23 +1,34 @@
 ## About LightPaper
-<del>[This document is best viewed in Preview mode. Swipe from right to left to switch to Preview mode.]</del>
 
 ---
 
-###★ New in Version 1.4
-* MultiMarkdown support (footnotes, citations, tables, email, definitions)
-* Style selector with custom fonts including Roboto, Source Sans Pro and many others, as well as custom themes including GitHub and Solarized (both light and dark)
-* New *Labs* feature in Settings to try out our latest research and development
-* Long press an Edit Shortcut or Markdown Shortcut for a tool tip
+NOTE:
+Menu buttons:
+On devices that have hardware menu buttons, the soft menu button in the upper right is disabled due to stricter adherence to the Google Design guidelines (we didn't choose this).  If your device supports a hardware menu button (like the Galaxy Note II), use it to bring up the LightPaper menu.
+
+DropBox:
+If you have LightPaper Pro, be certain to uninstall LightPaper Free.  These cannot both be connected to DropBox at the same time and will cause you undo grief.
+
 
 ---
 
-*LightPaper* is a simple, beautiful, text and Markdown editor for passionate writers. You can use *LightPaper* to write any kind of text documents - blogs, articles, notes, READMEs, TODOs, or the next chapter of your new novel. Its simple interface gets out of your way, allowing you to focus on writing. Your mobile editing experience will be enriched with the help of undo/redo, spell checking, and quick movement keys. To remove distractions, you can switch to *Distraction Free Mode* to completely immerse yourself in your current paragraph.
+###★ New in Version 2.0
+* Folder support for both DropBox and Local File System (Pro Only)
+* Create files and folders from the Document List View
+* Scriptogram Support
+* QuickBar visibility toggle via menu
+* User interface update
+* Bug fixes
+
+---
+
+*LightPaper* is a simple, beautiful, and powerful Text Editor for passionate writers. You can use *LightPaper* to write any kind of text documents - blogs, articles, notes, READMEs, TODOs, or the next chapter of your new novel. Its simple interface gets out of your way, allowing you to focus on writing. Your mobile editing experience will be enriched with the help of undo/redo, spell checking, and quick cursor movement keys. To remove distractions, you can switch to *Distraction Free Mode* to completely immerse yourself in your current paragraph.
 
 ## Dropbox Integration
 The documents are saved locally by default, with the option to sync with and upload your documents to the cloud through Dropbox. To link to Dropbox, click Menu on the ActionBar, select `Settings`, and click `Add New Accounts`.
 
-## Full Markdown/MultiMarkdown Support
-*LightPaper* comes with built-in support for Markdown and MultiMarkdown syntax. If you don't know Markdown and don't want to, it's okay - you can write everything in plain text. But we highly recommend you spare a few minutes to learn more about Markdown following this link: <http://links.clockworkengine.com/mkdn>.  MultiMarkdown documentation can be found at this link: <http://links.clockworkengine.com/mmd>.
+## Markdown Support
+*LightPaper* comes with built-in support for Markdown syntax. If you don't know Markdown and don't want to, it's okay - you can write everything in plain text. But we highly recommend you spare a few minutes to learn more about Markdown following this link: <http://links.clockworkengine.com/mkdn>.
 
 From the author of Markdown:
 
@@ -26,9 +37,9 @@ From the author of Markdown:
 ### Previewing Markdown Document
 If you have formatted your document using Markdown, previewing your document is just one swipe away - just swipe from right to left. To switch back to edit mode, swipe from left to right.
 
-##★ <a id="blogging"></a> Blogging
+## Blogging
 
-* *LightPaper* now supports posting your documents directly to WordPress and Tumblr.
+* *LightPaper* now supports posting your documents directly to WordPress, Tumblr and Scriptogram.
 * You can add multiple WordPress or Tumblr blogs
 * If you have more than one blog under one account, *LightPaper* will link all of them.
 * You can post to either single or multiple blog accounts at one time
@@ -36,7 +47,7 @@ If you have formatted your document using Markdown, previewing your document is 
     * *Self hosted WordPress must have the official Jetpack plugin installed, version 1.9 or greater, to be able to post a blog. Jetpack can be downloaded from [http://jetpack.me]() Note that this is only required for self hosted WordPress blogs. More details about WordPress + Jetpack can be found at [http://links.clockworkengine.com/jetpack]()*
    * *WordPress.com hosted blogs require no extra setup.* 
    * *Tumblr blogs require no extra setup.*
-
+   * *Scriptogram support requires that you enter your scriptogram id, as well as your Account URL.  You will find your Scriptogram id under settings on the Scriptogram website (http://scriptogr.am/dashboard/#settings).*
 
 ### Adding/Removing a blog account
 
@@ -123,9 +134,6 @@ Settings are located in the Options menu, and can be used to choose the default 
 
 ## Feedback and Comments
 We'd love to hear from you. The best way to contact us is either by using our Google+ page, or by using Twitter. To get the latest updates on *LightPaper* you can like our Google+ page (<http://links.clockworkengine.com/gpluslp>) and follow us on Twitter [@LightPaperApp](http://twitter.com/LightPaperApp). If you find *LightPaper* to be awesome, don't forget to 5 star us on the Google Play Store. We have made our best efforts to give Android users a simple, beautiful, and native looking editor and we promise to continuously improve it.
-
-## Support
-If you need any support regarding this app, you can create a ticket at <http://links.clockworkengine.com/lp-support> or email us at support@clockworkengine.com
 
 We hope you enjoy using it as much as we enjoyed writing it.
 
