@@ -14,6 +14,8 @@ Here are some of the themes that are already available publicly on github that y
 6. [Solarized Theme by CodeCatalyst](https://github.com/CodeCatalyst/mou-theme-solarized)
 7. [Github2 Theme by gcollazo](https://github.com/gcollazo/mou-theme-github2)
 8. [Mou Themes by jessemutz](https://github.com/jessemutz/mou)
+9. [Swizzle by chrissimpkins](https://github.com/chrissimpkins/swizzle)
+9. [Snowball by chrissimpkins](https://github.com/chrissimpkins/snowball)
 
 
 Clone one or all of the above themes under `~/.lightpaper/Themes` and you are all set. You can select a theme for the editor and/ or for the preview from the Preferences pane (`LightPaper>Preferences…` or `⌘,`). If two themes share the same name, only one of them will be picked. If you want to write your own theme, we recommend you to use one of the above mentioned themes as a template.
